@@ -1,0 +1,6 @@
+{
+  "name": "DMK FOUNDATION - Loan Management System",
+  "description": "Transparent, convenient, and technology-driven financial loan application, EMI, and KYC management platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
